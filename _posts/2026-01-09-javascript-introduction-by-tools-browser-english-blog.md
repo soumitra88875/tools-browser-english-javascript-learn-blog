@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "⚡ What is JavaScript? – The brain that brings websites to life"
-date: 2026-01-13 10:00:00 +0530
+date: 2026-01-09 10:00:00 +0530
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-js/image1.png
 ---
 
